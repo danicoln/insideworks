@@ -3,12 +3,12 @@ package rankingPagadores;
 import java.util.*;
 
 public class appMain {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) {
 
         /**
          * Adiciona os pagamentos na lista
          * */
-        List<String[]> pagamentos = new ArrayList<>(){{
+        List<String[]> pagamentos = new ArrayList<>() {{
             add(new String[]{"F", "2022-05-01", "0"});
             add(new String[]{"A", "2022-04-03", "1"});
             add(new String[]{"C", "2022-04-04", "1"});
@@ -61,15 +61,11 @@ public class appMain {
 
             empresasPagadoras.add(new AbstractMap.SimpleEntry<>(nomeEmpresa, mediaPagamentosEfetuados));
         }
-
         empresasPagadoras.sort(Map.Entry.<String, Double>comparingByValue().reversed());
 
         for (Map.Entry<String, Double> empresa : empresasPagadoras) {
-            System.out.printf("Empresa: %s - Média de pagamentos: %.2f \n", empresa.getKey(), empresa.getValue() );
-
+            System.out.printf("Empresa: %s - Média de pagamentos: %.2f \n", empresa.getKey(), empresa.getValue());
 
         }
     }
 }
-
-

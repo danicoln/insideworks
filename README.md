@@ -1,4 +1,4 @@
-# Ranking de pagadores: 
+# Ranking de pagadores 
 
 <p>A consultoria PLANNING foi contratada pela Empresa PAGUE para construir um modelo que calculasse o ranking de bons pagadores on-line.
 Para isso, disponibilizou a tabela de status dos pagamentos previstos por empresa (1 - Pagou; 0 - Não pagou).
@@ -7,7 +7,10 @@ Para isso, disponibilizou a tabela de status dos pagamentos previstos por empres
 <p>Dado o enunciado em questão, crie um bloco de código em JavaScript ou em Java que calcule a média de pagamentos por empresa
 e publique o ranking das empresas.</p>
 
-image
+<p><strong>Acesse o código <a href="https://github.com/danicoln/insideworks/blob/main/rankingPagadores/appMain.java">aqui</a>.</strong></p>
+
+<h3>Tabela de Lançamentos</h3>
+<img src="imagens/tabela_lancamentos.png" alt="Tabela de Lançamentos">
 
 # Consumo médio de energia elétrica
 
@@ -21,6 +24,8 @@ Cada linha representa um ano e cada coluna um mês. Considerando esses dados, fa
 <p>Nesta questão, espera-se que você escreva um bloco de código, em JavaScript ou em Java, que represente um encadeamento lógico
 que execute a rotina indicada no enunciado.</p>
 
-## Siga o exemplo abaixo
+<p><strong>Acesse o código <a href="https://github.com/danicoln/insideworks/blob/main/empresaXPTO/ConsumoMain.java">aqui</a>.</strong></p>
 
-image
+<h3>Siga o exemplo abaixo</h3>
+
+<img src="imagens/codigo_exemplo.png" alt="Código de Exemplo">
