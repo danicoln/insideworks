@@ -81,6 +81,6 @@ que execute a rotina indicada no enunciado.</p>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniellincolndev/)
 
 
-[![Email](https://em-content.zobj.net/thumbs/160/microsoft/54/e-mail-symbol_1f4e7.png)](lincolndeveloper@outlook.com)
+[![Email](https://em-content.zobj.net/thumbs/160/microsoft/54/e-mail-symbol_1f4e7.png)](mailto:lincolndeveloper@outlook.com)
 
 
