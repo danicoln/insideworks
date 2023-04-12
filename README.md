@@ -10,10 +10,7 @@
 
 <p>Nesta questão, espera-se que você elabore um desenho do processo descrito acima pensando em uma perspectiva de execução por meio de um sistema informatizado. Utilize notação BPMN.</p>
 
-Resolução aqui.
-
 <p><strong>Resolução<a href="imagens/diagram.svg"> aqui</a>.</strong></p>
-
 
 
 # 2. Ranking de pagadores 
@@ -62,7 +59,7 @@ que execute a rotina indicada no enunciado.</p>
 
 <p>Nesta questão, espera-se que você desenhe um modelo relacional que atenda aos requisitos indicados no enunciado. Anexo a esta prova, está disponível uma cartilha indicando notação UML.</p>
 
-<p><strong>Acesse o diagrama <a href="diagrama">aqui</a>.</strong></p>
+<p><strong>Acesse o diagrama <a href="imagens/diagrama_veiculos.png">aqui</a>.</strong></p>
 
 # 5. Query SQL
 
